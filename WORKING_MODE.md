@@ -2,7 +2,8 @@
 This document describes the working agreements to collaborate on the manifesto.
 
 ## Regular Meetings 
-TBD
+
+As of today, communication happens asynchronously via Discord and Github, no regular meetings are planned.
 
 ## Governance Process
 

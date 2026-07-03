@@ -32,7 +32,7 @@ Once opened, the proposal is announced on Discord to invite community participat
 
 GitHub is the canonical place for discussion, feedback, and approvals. Discord is used only for notification and to encourage participation.
 
-Proposals should normally remain open for at least **14 days** to allow members across different time zones and schedules to participate.
+Proposals should normally remain open for at least **2 full days** to allow members across different time zones and schedules to participate.
 
 ### Discussion and Refinement
 

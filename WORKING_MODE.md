@@ -46,7 +46,7 @@ If significant concerns are raised, the proposal should be revised to address th
 
 After the review period, a proposal may be merged when:
 
-* it has received sufficient participation from active governance participants,
+* it has received sufficient participation from community members,
 * it has received broad approval from those who participated,
 * and any substantive objections have been addressed or resolved.
 
